@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of gridview
+ */
+export * from './lib/gridview.service';
+export * from './lib/gridview.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2dyaWR2aWV3L3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDBCQUEwQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBncmlkdmlld1xuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2dyaWR2aWV3LnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvZ3JpZHZpZXcuY29tcG9uZW50JztcblxuIl19
