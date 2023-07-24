@@ -1,0 +1,26 @@
+{
+  "name": "gridview",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0",
+    "bootstrap": "^5.2.3"
+  },
+  "sideEffects": false,
+  "module": "fesm2022/gridview.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/gridview.mjs",
+      "esm": "./esm2022/gridview.mjs",
+      "default": "./fesm2022/gridview.mjs"
+    }
+  }
+}
